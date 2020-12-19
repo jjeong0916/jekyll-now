@@ -17,8 +17,8 @@ tags:
 >##### 펄 스크립트(확장자: <em>.md</em>): 마크다운 작성 문서 -> HTML 변환
 
 
-Reactive Streams
-> Reactive Streams is a standard for asynchronous data processing in a streaming fashion with non-blocking back pressure
+### Reactive Streams
+<em>Reactive Streams is a standard for asynchronous data processing in a streaming fashion with non-blocking back pressure</em>  
 논블로킹(Non-blocking), 백프래셔(Back-pressure)를 이용한 비동기 데이터 처리의 표준
 
 
